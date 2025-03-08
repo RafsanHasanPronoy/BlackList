@@ -30,4 +30,4 @@ https://drive.google.com/drive/folders/1udmnZEgRGyooNtQbM8jcJ1hIr9qg9L2-?usp=sha
 
 
 ***DenseNet 121 Model***
--Wheat, Pumpkin, Potato, Pepper Bell, Cauliflower
+-Wheat, Pumpkin, Potato, Pepper Bell, Cauliflower, Rice
